@@ -11,3 +11,44 @@ import url('https://fonts.googleapis.com/css2?family=Georama:wght@300;700&family
     font-weight: 300;
     color: #252525;
 }
+
+h1,
+h2 {
+    font-family: Georama, sans-serif;
+    color: #000;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+#nav-text {
+    font-size: 150%;
+    margin-left: 5px;
+    float: right;
+	vertical-align:middle;
+}
+
+.nav-link {
+    color: #AD0000 !important;
+    font-size: 120%;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+.nav-link:hover {
+        position: relative;
+        bottom: 10px;
+        box-shadow: 0 5px 5px -2px #AD0000;
+}
+
+.navbar-toggler {
+    border: 2px solid #AD0000 !important;
+    background-color: #FFF !important;
+  }
+  
+  .navbar-light .navbar-toggler {
+    color: rgba(173, 0, 0, 0.3)
+}
+ .navbar-collapse .nav-link {
+    text-align: right;
+    bottom: 0;
+  }
