@@ -44,6 +44,7 @@ h3 {
         position: relative;
         bottom: 10px;
         box-shadow: 0 5px 5px -2px #AD0000;
+        cursor: crosshair;
 }
 
 .navbar-toggler {
@@ -51,7 +52,7 @@ h3 {
     background-color: #FFF !important;
   }
   
-  .navbar-light .navbar-toggler {
+.navbar-light .navbar-toggler {
     color: rgba(173, 0, 0, 0.3)
 }
  .navbar-collapse .nav-link {
@@ -126,6 +127,8 @@ font-weight: bold;
     box-shadow: 1px 1px 25px #AD0000;
     padding: 5%;
     margin: 15px 0;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 .about-left-heading {
@@ -140,3 +143,26 @@ font-weight: bold;
     width: 25%;
     height: 25%;
 }
+
+#about a{
+    color: #AD0000;
+    text-decoration: none;
+}
+
+#about a:hover {
+    text-decoration-line: underline;
+    font-weight: bold;
+}
+
+#about img {
+    display: block;
+    margin: 25px auto;
+    width: 40%;
+
+}
+
+th {
+font-size: 110%;
+text-decoration: underline;
+}
+
