@@ -64,6 +64,8 @@ h3 {
     background: #AD0000;
  }
 
+ /* hero section */
+
 #carouselHero .carousel-item:before {
   content: "";
   background-image: linear-gradient(to bottom, rgba(173, 0, 0, 0.1), rgba(0,0,0, 0.9));
@@ -90,17 +92,19 @@ h3 {
     margin-bottom: 0;
 }
 
+/* about section */
+
 #about {
     width: 80%;
     margin: 45px auto;
 }
 
-#whoarewe {
+.center-text {
     text-align: center;
     font-size: 120%;
 }
 
-#whoarewe h2 {
+.center-text h2 {
     margin-bottom: 15px;
 }
 
@@ -128,7 +132,6 @@ font-weight: bold;
     padding: 5%;
     margin: 15px 0;
     text-align: justify;
-    text-justify: inter-word;
 }
 
 .about-left-heading {
@@ -144,9 +147,10 @@ font-weight: bold;
     height: 25%;
 }
 
-#about a{
+#about a {
     color: #AD0000;
     text-decoration: none;
+    cursor: crosshair;
 }
 
 #about a:hover {
@@ -164,5 +168,33 @@ font-weight: bold;
 th {
 font-size: 110%;
 text-decoration: underline;
+}
+
+/* gallery */
+
+.gallery {
+    display: flex;
+    margin-bottom: 50px;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.gallery div {
+    overflow: hidden;
+    flex: 25%;
+    cursor: crosshair;
+    background-color: #AD0000;
+}
+
+.gallery img {
+    transition: all .7s ease-in-out;
+    height: 100%;
+    width: 100%;
+    opacity: .7;
+}
+
+.gallery img:hover {
+    transform: scale(1.1);
+    opacity: 1;
 }
 
