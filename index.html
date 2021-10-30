@@ -378,10 +378,68 @@
       >
     </section>
 
-    <section id="contact" class="center-text">
-      <h2>Contact us!</h2>
+    <section id="contact">
+        <div class="center-text">
+            <h2>Get in touch!</h2>
+          </div>
+    
+      <div class="row row-cols-md-2 mb-5 mx-5 mx-sm-5 gx-md-5">
+            
+        <div class="col-12 col-md-6 border border-2 p-3 p-sm-4">
 
-      Here will be the contact us for, iframes & contact details.
+          <form action="" method="POST">
+            <div class="mb-2">
+              <label for="name" class="form-label">Name</label>
+              <input type="text" class="form-control" id="name" name="name" required/>
+            </div>
+
+            <div class="mb-2">
+              <label for="surname" class="form-label">Surname</label>
+              <input type="text" class="form-control" id="surname" name="surname" required/>
+            </div>
+
+            <div class="mb-2">
+              <label for="email" class="form-label">Email address</label>
+              <input type="email" class="form-control" id="email" name="email" required/>
+            </div>
+
+            <div class="form-check-inline my-3">
+              <div>
+                <p>Interested in:</p>
+              </div>
+              <div>
+                    <input id="social" type="radio" name="volleyball_preference" value="social" required>
+                    <label for="social">Social Volleyball</label>
+                    
+                    <input id="league" type="radio" name="volleyball_preference" value="league">
+                    <label for="league">Local League</label>
+
+                    <input id="both" type="radio" name="volleyball_preference" value="both"> 
+                    <label for="both">Both</label>
+                </div>
+            </div>
+            
+            <div class="mb-2">
+              <label for="message" class="form-label">Message</label>
+              <textarea class="form-control" id="message" rows="5" name="message" placeholder="Leave us your message or question" required></textarea>
+            </div>
+            <button type="submit" class="btn btn-danger my-btn">Submit</button>
+          </form>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     </section>
 
     <!-- font awesome script -->
