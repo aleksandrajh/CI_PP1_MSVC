@@ -223,6 +223,11 @@ text-decoration: underline;
 
 .form-control:focus {
     box-shadow: 1px 1px 10px #AD0000;
+    border: 1px solid #AD0000;
+}
+
+.interests label {
+    margin-right: 15px;
 }
 
 .contact-btn {
