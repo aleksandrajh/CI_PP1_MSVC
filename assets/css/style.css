@@ -241,3 +241,34 @@ text-decoration: underline;
     background: #fff;
     border: 2px solid #AD0000;
 }
+
+
+footer {
+    background-color: rgba(173, 0, 0, 0.8);
+    text-align: center;
+}
+
+.social-icons {
+    padding: 0;
+}
+
+.social-icons > li {
+    display: inline;
+    margin: 3%;
+}
+
+.social-icons i {
+    font-size: 220%;
+    margin: 0;
+    padding-top: 3%;
+
+}
+
+.social-icons i, .copyrights {
+    color: #fff;
+}
+
+.copyrights {
+    font-size: 80%;
+    padding: 2% 0;
+}
