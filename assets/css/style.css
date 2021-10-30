@@ -101,7 +101,7 @@ h3 {
 
 .center-text {
     text-align: center;
-    font-size: 120%;  
+    font-size: 110%;  
 }
 
 .center-text h2 {
@@ -239,4 +239,32 @@ footer {
 .copyrights {
     font-size: 80%;
     padding: 2% 0;
+}
+
+@media all and (max-width: 992px) { 
+    .gallery div {
+        flex: 33%;
+    }
+}
+
+@media all and (max-width: 768px) { 
+    .gallery div {
+        flex: 50%;
+    }
+}
+
+@media all and (max-width: 576px) { 
+    .gallery div {
+        flex: 100%;
+    }
+
+    .carousel-caption h3 {
+        font-size: 160%;
+        padding: 0 5px;
+    }
+
+    .quote q {
+        font-size: 90%;
+        width: 90%;
+    }
 }
