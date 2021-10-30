@@ -6,6 +6,10 @@ import url('https://fonts.googleapis.com/css2?family=Georama:wght@300;700&family
     border: none;
 }
 
+::selection {
+    background-color: rgba(173, 0, 0, 0.3);
+}
+
 body {
     font-family: Poppins, sans-serif;
     font-weight: 300;
