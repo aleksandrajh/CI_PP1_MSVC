@@ -219,3 +219,20 @@ text-decoration: underline;
     color: #FFF;
 }
 
+/* Contact form */
+
+.form-control:focus {
+    box-shadow: 1px 1px 10px #AD0000;
+}
+
+.contact-btn {
+    box-shadow: 1px 1px 10px #AD0000;
+    padding: 5px 15px;
+    font-weight: bold;
+}
+
+.contact-btn:hover {
+    color: #AD0000;
+    background: #fff;
+    border: 2px solid #AD0000;
+}
