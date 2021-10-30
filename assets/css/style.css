@@ -40,9 +40,9 @@ h3 {
     font-weight: bold;
 }
 
-.nav-link:hover {
+.nav-link:hover, .social-icons i:hover {
         position: relative;
-        bottom: 10px;
+        bottom: 5px;
         box-shadow: 0 5px 5px -2px #AD0000;
         cursor: crosshair;
 }
@@ -217,7 +217,8 @@ footer {
 }
 
 .social-icons {
-    padding: 0;
+    padding-top: 3%;
+    padding-left: 0;
 }
 
 .social-icons > li {
@@ -228,8 +229,6 @@ footer {
 .social-icons i {
     font-size: 220%;
     margin: 0;
-    padding-top: 3%;
-
 }
 
 .social-icons i, .copyrights {
