@@ -101,8 +101,7 @@ h3 {
 
 .center-text {
     text-align: center;
-    font-size: 120%;
-    
+    font-size: 120%;  
 }
 
 .center-text h2 {
@@ -114,39 +113,9 @@ color: #AD0000;
 font-weight: bold;
 }
 
-#about-left, #about-right {
-    width: 50%;
-    padding-top: 10px;
-}
-
-#about-left {
-    float: left;
-}
-
-#about-right {
-    float: right;
-}
-
-.about-left-heading, .about-right-heading  {
-    width: 90%;
+.border-shadow  {
     box-shadow: 1px 1px 25px #AD0000;
-    padding: 5%;
-    margin: 15px 0;
-    text-align: justify;
-}
-
-.about-left-heading {
-    float: left;
-}
-
-.about-right-heading {
-    float: right;
-}
-
-.about-right-heading img {
-    width: 25%;
-    height: 25%;
-}
+} 
 
 #about a {
     color: #AD0000;
@@ -163,7 +132,6 @@ font-weight: bold;
     display: block;
     margin: 25px auto;
     width: 40%;
-
 }
 
 th {
