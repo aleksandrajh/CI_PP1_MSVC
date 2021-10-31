@@ -126,6 +126,10 @@ span {
   box-shadow: 1px 1px 25px #ad0000;
 }
 
+.no-padding {
+  padding-right: 0;
+}
+
 #about a {
   color: #ad0000;
   text-decoration: none;
