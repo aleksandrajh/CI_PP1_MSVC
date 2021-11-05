@@ -285,6 +285,13 @@ footer {
   }
 }
 
+@media all and (max-width: 390px) {
+  .col-9 {
+    flex: 0 0 auto;
+    width: 100%;
+  }
+}
+
 @media all and (max-width: 320px) {
   .interests label {
     padding-left: 10px;
