@@ -180,12 +180,10 @@ th {
   opacity: 1;
 }
 
-.quote {
-  width: 100%;
-  height: 150px;
+.quote-wrapper {
   display: flex;
-  justify-content: center;
-  align-items: center;
+  width: 100%;
+  height: 250px;
   margin: 65px 0;
   background: #ad0000;
   background: linear-gradient(rgba(173, 0, 0, 0.3), rgba(0, 0, 0, 0.7)),
@@ -194,11 +192,31 @@ th {
   background-position: center;
 }
 
-.quote q {
+.quote {
   font-weight: bold;
-  font-style: italic;
-  width: 80%;
+  font-size: italic;
   color: #fff;
+  padding: 20px 0;
+  width: 80%;
+  margin: 0 auto;
+  align-self: center;
+  border-top: solid 1px;
+  border-bottom: solid 1px;
+}
+
+.quote q {
+  color: #fff;
+  font-size: 120%;
+  font-weight: 800;
+  line-height: 1.4;
+}
+
+.quote cite {
+  font-size: 90%;
+  font-weight: normal;
+  line-height: 1.4;
+  display: block;
+  padding-top: 20px;
 }
 
 /* Contact form */
@@ -282,11 +300,6 @@ footer {
   .carousel-caption h3 {
     font-size: 160%;
     padding: 0 5px;
-  }
-
-  .quote q {
-    font-size: 90%;
-    width: 90%;
   }
 }
 
