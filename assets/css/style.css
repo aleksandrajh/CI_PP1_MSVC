@@ -301,6 +301,18 @@ footer {
     font-size: 160%;
     padding: 0 5px;
   }
+
+  .quote {
+    width: 90%;
+    padding: 10px 0;
+  }
+
+  .quote q {
+    font-size: 100%;
+  }
+  .quote cite {
+    font-size: 80%;
+  }
 }
 
 @media all and (max-width: 390px) {
