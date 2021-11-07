@@ -26,7 +26,8 @@ h2 {
   font-weight: bold;
 }
 
-h3 {
+h3,
+h4 {
   font-weight: bold;
   font-family: "Architects Daughter", cursive;
 }
@@ -93,11 +94,11 @@ h3 {
 }
 
 .carousel-caption h3 {
-  font-size: 180%;
+  font-size: 170%;
 }
 
-.carousel-caption p {
-  font-size: 120%;
+.carousel-caption h4 {
+  font-size: 130%;
   margin-bottom: 0;
 }
 
