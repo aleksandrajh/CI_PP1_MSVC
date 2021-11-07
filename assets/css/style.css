@@ -290,6 +290,10 @@ footer {
   .gallery div {
     flex: 50%;
   }
+  .contact-btn {
+    display: block;
+    margin: 0 auto;
+  }
 }
 
 @media all and (max-width: 576px) {
