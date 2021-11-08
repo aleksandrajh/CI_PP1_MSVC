@@ -309,6 +309,7 @@ footer {
 .copyrights {
   font-size: 80%;
   padding: 2% 0;
+  margin-bottom: 0;
 }
 
 /* 404 page image */
