@@ -311,6 +311,12 @@ footer {
   padding: 2% 0;
 }
 
+/* 404 page image */
+
+.error-img {
+  width: 35%;
+}
+
 /* Media querry adjustments for different screen sizes */
 
 @media all and (max-width: 992px) {
@@ -352,8 +358,13 @@ footer {
   .quote q {
     font-size: 100%;
   }
+
   .quote cite {
     font-size: 80%;
+  }
+
+  .error-img {
+    width: 50%;
   }
 }
 
