@@ -234,6 +234,26 @@ th {
   border: 1px solid #ad0000;
 }
 
+input[type="radio"] {
+  -webkit-appearance: none;
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  box-shadow: 1px 1px 10px #ad0000;
+}
+
+input[type="radio"]:checked:after {
+  content: "";
+  width: 13px;
+  height: 13px;
+  border-radius: 50%;
+  top: 0;
+  left: 0;
+  position: relative;
+  background-color: rgba(173, 0, 0, 0.8);
+  display: block;
+}
+
 /* group the radio button & label to prevent singe radio button left out on a row when screen size gets smaller */
 .group-radio-label {
   white-space: nowrap;
