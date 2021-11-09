@@ -1,4 +1,5 @@
-# Moss Side Volleyball Club
+# Moss Side Volleyball Club <img src="assets\images\msvc-logo.png" style="width: 40px;height:40px;">
+
 
 Developer: Aleksandra Haniok
 
@@ -115,7 +116,21 @@ A separate 404 error page was created.
 
 ### Languages
 
+- HTML
+- CSS
+
 ### Frameworks & Tools
+
+- Balsamiq
+- Bootstrap v5.0
+- Favicon.io
+- Font Awesome
+- Git
+- GitHub
+- Google Fonts
+- Pixabay.com
+- Remove.bg
+- Visual Studio Code
 
 ## Features
 
