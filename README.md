@@ -178,7 +178,18 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 
 ### Performing tests on various devices
 
+The website was tested using Google Chrome Developer Tools Toggle Device Toolbar to simulate viewports of different devices. 
+
+The website was tested on the following devices:
+- Lenovo B590 (laptop screen size)
+- Samsung Galaxy Tab A (tablet screen)
+- Samsung S7 (mobile screen)
+
 ### Browser compatability
+
+The website was tested on the following browsers:
+- Google Chrome
+- Mozilla Firefox
 
 ### Testing user stories
 
