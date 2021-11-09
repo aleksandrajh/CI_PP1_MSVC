@@ -84,7 +84,18 @@ Poppins with sans-serif as fallback was used for the body to present the content
 
 ### Structure
 
+The website is structured in a user friendly and easy to learn way. At the top of the page the user can see a recognisable type of navigation bar with the club logo and name on the left side and the navigation links to the right which collapse to hamburger icon on smaller screen sizes. 
 
+The website consists of four sections:
+
+- A landing (home) section with a navigation bar and hero images on a carousel
+- An about section with the information about the club
+- A gallery with images from social volleyball trainings and local league games giving a general feel of the club
+- A contact section with a contact form, location maps of two sports venues and information how to find the club
+
+At the bottom of the page there is a footer with links to social media and copyrights info.
+
+A separate 404 error page was created.
 
 ### Wireframes
 
