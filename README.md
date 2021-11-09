@@ -73,13 +73,18 @@ Live webpage
 
 ## Design
 
-### Design Choices
-
 ### Colour
+
+For the colour scheme a combination of black, dark red and white were chosen to match the club's logos. These colours and their shades were used throughout each section in such a way to ensure the contrast between them was right.
 
 ### Fonts
 
+Architects Daughter with cursive as fallback was used for the logo and headings to give a bit of fun and relax feeling of the club.
+Poppins with sans-serif as fallback was used for the body to present the content in clear and legible way.
+
 ### Structure
+
+
 
 ### Wireframes
 
