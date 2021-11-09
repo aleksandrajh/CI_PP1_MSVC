@@ -18,18 +18,18 @@ body {
 }
 
 h1,
-h2 {
+h2,
+h3,
+h4 {
   font-family: "Architects Daughter", cursive;
-  color: #000;
-  text-transform: uppercase;
-  letter-spacing: 2px;
   font-weight: bold;
 }
 
-h3,
-h4 {
-  font-weight: bold;
-  font-family: "Architects Daughter", cursive;
+h1,
+h2 {
+  color: #000;
+  text-transform: uppercase;
+  letter-spacing: 2px;
 }
 
 /* Header */
@@ -64,6 +64,7 @@ h4 {
 .navbar-light .navbar-toggler {
   color: rgba(173, 0, 0, 0.3);
 }
+
 .navbar-collapse .nav-link {
   text-align: right;
 }
