@@ -99,6 +99,18 @@ A separate 404 error page was created.
 
 ### Wireframes
 
+<details><summary>Big screens - laptop & desktop</summary>
+<img src="docs/wireframes/wireframes-home-and-about-laptop.jpg">
+<img src="docs/wireframes/wireframes-gallery-laptop.jpg">
+<img src="docs/wireframes/wireframes-contact-laptop.jpg">
+</details>
+<details><summary>Medium screens - tablets</summary>
+<img src="docs/wireframes/wireframes-tablet.jpg">
+</details>
+<details><summary>Small screens - mobile</summary>
+<img src="docs/wireframes/wireframes-mobile.jpg">
+</details>
+
 ## Technologies Used
 
 ### Languages
