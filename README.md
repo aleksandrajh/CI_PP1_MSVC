@@ -49,10 +49,27 @@ Live webpage
 
 #### First-time users
 
+1. As a first time user, I want to find out more about the club
+2. As a first time user, I want to find out if I can join the club if I have never played volleyball before
+3. As a first time user, I want to know if the club takes part in the local competition
+4. As a first time user, I want to get a feeling of the club
+5. As a first time user, I want to be able to contact the club with a specific question
+   
 #### Returning visitor
 
+6. As a returning user, I want to see pictures from the recent club tournaments
+7. As a returning user, I want to know who joins the social sessions
+8. As a returning user, I want to find the club on social media
+9. As a returning user, I want to know the training sessions times
+10. As a returning user, I want to get direction to the sports venues
 
 #### Site Owner
+
+11.	As the site owner, I want user to get to know the club
+12.	As the site owner, I want user to be able to contact us
+13.	As the site owner, I want users to join the training sessions
+14.	As the site owner, I want my site to be responsive
+15.	As the site owner, I don’t want users to use browser back button if they’re searching for a page which does not exist.
 
 ## Design
 
