@@ -71,6 +71,8 @@ https://aleksandracodes.github.io/CI_PP1_MSVC/
 | ----------- | ----------- |
 | Some bug | The fix for it |
 | Paragraph   | Text        |
+| Another bug   | How I fixed it |
+| Yet another bug | How I fixed them  |
 
 ## Deployment
 
