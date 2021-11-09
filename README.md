@@ -36,7 +36,7 @@ Live webpage
 - People looking to come back to volleyball after not playing for a long time
 - People willing to find a club which takes part in the local competition
 
-### User Requrements and Expectations
+### User Requirements and Expectations
 
 - Quickly and easily find the relevant information
 - Simple navigation around website
@@ -100,9 +100,9 @@ A separate 404 error page was created.
 ### Wireframes
 
 <details><summary>Big screens - laptop & desktop</summary>
-<img src="docs/wireframes/wireframes-home-and-about-laptop.jpg">
-<img src="docs/wireframes/wireframes-gallery-laptop.jpg">
-<img src="docs/wireframes/wireframes-contact-laptop.jpg">
+<img src="docs/wireframes/wireframes-home-and-about-laptop.JPG">
+<img src="docs/wireframes/wireframes-gallery-laptop.JPG">
+<img src="docs/wireframes/wireframes-contact-laptop.JPG">
 </details>
 <details><summary>Medium screens - tablets</summary>
 <img src="docs/wireframes/wireframes-tablet.jpg">
