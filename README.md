@@ -168,7 +168,7 @@ The website consists of four sections and nine features.
 - Selection of images from social volleyball training and events
 - Selection of images from local volleyball competition
 - Each image slightly enlarges when hovered
-- User stories covered: 4, 6, 7
+- User stories covered: 4, 6, 7, 11
 
 ![Gallery](docs/features/feature-gallery-social.JPG)
 ![Gallery](docs/features/feature-gallery-league.JPG)
@@ -323,9 +323,50 @@ The website was tested on the following browsers:
 <img src="docs/user-story-testing/user-story-7b.JPG">
 </details>
 
+8. As a returning user, I want to find the club on social media
 
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer with social media icons | Scroll to the bottom of the page | Click on social media links | Works as expected |
 
+<details><summary>Screenshot</summary>
+<img src="docs/user-story-testing/user-story-8.jpg">
+</details>
 
+9. As a returning user, I want to know the training sessions times
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| About | Navigate to the Acbout Section | Find social volleyball & local league trianing times | Works as expected |
+
+<details><summary>Screenshot</summary>
+<img src="docs/user-story-testing/user-story-9.jpg">
+</details>
+
+10. As a returning user, I want to get direction to the sports venues
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Maps | Navigate to the Contact Section, locate maps and click on directions link | See directions to the sports venues Goole Maps | Works as expected |
+| Info | Navigate to the Contact Section, locate info box | See adresses with post codes to two sports venues  | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-10a.JPG">
+<img src="docs/user-story-testing/user-story-10b.JPG">
+</details>
+
+11. As the site owner, I want user to get to know the club
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+
+| About Section | Navigate to the About section | Find description of the club. | Works as expected |
+| Gallery Section | Navigate to the Gallery Section | Users can view pictures of the social volleyball sessions and local league teams | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-1-2-3.JPG">
+<img src="docs/user-story-testing/user-story-4-6.JPG">
+</details>
 
 
 ## Bugs
