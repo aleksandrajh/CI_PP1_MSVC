@@ -134,6 +134,37 @@ A separate 404 error page was created.
 
 ## Features
 
+The website consists of four sections and XX features.
+
+### Logo and Navigation Bar
+
+- Featured on main website and 404 error page
+- The logo takes user to the main website home screen
+- The nav bar contains links to Home screen (top of website), About section, Gallery section and Contact section.
+- The nav bar is fully responsive and changes to a toggler (hamburger menu) on smaller size screens
+- The navbar allows user to easily jump to a specific section on the website
+
+![Logo and navbar](docs/features/feature-logo-and-navbar.jpg)
+![Logo and navbar](docs/features/feature-logo-and-navbar-hamburger.jpg)
+
+### Carousel
+- Created based on Bootstrap framework.
+- User is presented with three pictures from the club which give them a friendly feeling of the club.
+- The headings over the pictures are to make the user welcomed on the website and encourage them to join the club
+- The pictures slide automatically but user has the option to change the pictures via back and forward arrows or indicators at the bottom
+
+![Carousel](docs/features/feature-carousel.jpg)
+
+### About Section
+- Provides a general description of the club
+- Describes the social volleyball and local league competition
+- Presents user with two club logos
+- Provides information about training times, cost and locations
+- User stories covered: XYZ
+
+![About](docs/features/feature-about.jpg)
+![About](docs/features/feature-about-2.jpg)
+
 ## Validation
 
 ### HTML Validation
