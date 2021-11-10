@@ -134,7 +134,7 @@ A separate 404 error page was created.
 
 ## Features
 
-The website consists of four sections and XX features.
+The website consists of four sections and nine features.
 
 ### Logo and Navigation Bar
 - Featured on the main website and the 404 error page
@@ -143,14 +143,15 @@ The website consists of four sections and XX features.
 - The nav bar is fully responsive and changes to a toggler (hamburger menu) on smaller size screens
 - The navbar allows user to easily jump to a specific section on the website
 
-![Logo and navbar](docs/features/feature-logo-and-navbar.jpg)
-![Logo and navbar](docs/features/feature-logo-and-navbar-hamburger.jpg)
+![Logo and navbar](docs/features/feature-logo-and-navbar.JPG)
+![Logo and navbar](docs/features/feature-logo-and-navbar-hamburger.JPG)
 
 ### Carousel
 - Created based on Bootstrap framework.
 - User is presented with three pictures from the club which give them a friendly feeling of the club.
 - The headings over the pictures are to make the user welcomed on the website and encourage them to join the club
 - The pictures slide automatically but user has the option to change the pictures via back and forward arrows or indicators at the bottom
+- User stories covered: 4
 
 ![Carousel](docs/features/feature-carousel.jpg)
 
@@ -159,7 +160,7 @@ The website consists of four sections and XX features.
 - Describes the social volleyball and local league competition
 - Presents user with two club logos
 - Provides information about training times, cost and locations
-- User stories covered: XYZ
+- User stories covered: 1, 2, 3, 7, 9, 11, 13
 
 ![About](docs/features/feature-about.jpg)
 ![About](docs/features/feature-about-2.jpg)
@@ -168,7 +169,7 @@ The website consists of four sections and XX features.
 - Selection of images from social volleyball training and events
 - Selection of images from local volleyball competition
 - Each image slightly enlarges when hovered
-- User stories covered: XYZ
+- User stories covered: 3, 4, 6, 7
 
 ![Gallery](docs/features/feature-gallery-social.JPG)
 ![Gallery](docs/features/feature-gallery-league.JPG)
@@ -178,27 +179,29 @@ The website consists of four sections and XX features.
 
 ![Quote](docs/features/feature-quote.JPG)
 
-### Contact Section
-
-#### Contact Form
+### Contact Form
 - Enables user to contact the club with a specific question or express interest in joining the club.
+- User stories covered: 2, 5, 12
 
 ![Contact Form](docs/features/feature-contact-form.JPG)
 
-#### Maps
+### Maps
 - Provides user with directions to the sports venues
+- User stories covered: 10
 
 ![Maps](docs/features/feature-maps.JPG)
 
-#### Info
-- Provides user with sports venues address and contact email
-
+### Info
+- Provides user with sports venues addresses and contact email
+- User stories covered: 5, 10
+  
 ![Info](docs/features/feature-info.JPG)
 
 ### Footer
 - Featured on the main website and the 404 error page
 - Contains links to social media, opening in a separate window
 - Contains copyrights info
+- User stories covered: 8
 
 ![Footer](docs/features/feature-footer.jpg)
 
