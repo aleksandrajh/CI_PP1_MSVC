@@ -137,7 +137,7 @@ A separate 404 error page was created.
 The website consists of four sections and XX features.
 
 ### Logo and Navigation Bar
-- Featured on main website and 404 error page
+- Featured on the main website and the 404 error page
 - The logo takes user to the main website home screen
 - The nav bar contains links to Home screen (top of website), About section, Gallery section and Contact section.
 - The nav bar is fully responsive and changes to a toggler (hamburger menu) on smaller size screens
@@ -177,6 +177,30 @@ The website consists of four sections and XX features.
 - An insprational and motivational volleyball quote to intrigue users about this sport
 
 ![Quote](docs/features/feature-quote.JPG)
+
+### Contact Section
+
+#### Contact Form
+- Enables user to contact the club with a specific question or express interest in joining the club.
+
+![Contact Form](docs/features/feature-contact-form.JPG)
+
+#### Maps
+- Provides user with directions to the sports venues
+
+![Maps](docs/features/feature-maps.JPG)
+
+#### Info
+- Provides user with sports venues address and contact email
+
+![Info](docs/features/feature-info.JPG)
+
+### Footer
+- Featured on the main website and the 404 error page
+- Contains links to social media, opening in a separate window
+- Contains copyrights info
+
+![Footer](docs/features/feature-footer.jpg)
 
 ## Validation
 
