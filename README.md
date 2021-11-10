@@ -151,7 +151,6 @@ The website consists of four sections and nine features.
 - User is presented with three pictures from the club which give them a friendly feeling of the club.
 - The headings over the pictures are to make the user welcomed on the website and encourage them to join the club
 - The pictures slide automatically but user has the option to change the pictures via back and forward arrows or indicators at the bottom
-- User stories covered: 4
 
 ![Carousel](docs/features/feature-carousel.jpg)
 
@@ -169,7 +168,7 @@ The website consists of four sections and nine features.
 - Selection of images from social volleyball training and events
 - Selection of images from local volleyball competition
 - Each image slightly enlarges when hovered
-- User stories covered: 3, 4, 6, 7
+- User stories covered: 4, 6, 7
 
 ![Gallery](docs/features/feature-gallery-social.JPG)
 ![Gallery](docs/features/feature-gallery-league.JPG)
@@ -203,7 +202,7 @@ The website consists of four sections and nine features.
 - Contains copyrights info
 - User stories covered: 8
 
-![Footer](docs/features/feature-footer.jpg)
+![Footer](docs/features/feature-footer.JPG)
 
 ## Validation
 
@@ -263,6 +262,71 @@ The website was tested on the following browsers:
 - Mozilla Firefox
 
 ### Testing user stories
+
+1. As a first time user, I want to find out more about the club
+2. As a first time user, I want to find out if I can join the club if I have never played volleyball before.
+3. As a first time user, I want to know if the club takes part in the local competition
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| About Section | Navigate to the About section | Find description of the club. | Works as expected |
+
+| About Section, Social Volleyball | Navigate to the About section | Description tells the user they can join with no previous experience | Works as expected |
+
+| About Section, Local League | Navigate to the About section | User is provided with information about the MSVC League Teams, experience required and structure of trainings | Works as expected |
+
+
+<details><summary>Screenshot</summary>
+<img src="docs/user-story-testing/user-story-1-2-3.JPG">
+</details>
+
+4. As a first time user, I want to get a feeling of the club
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Gallery Section | Navigate to the Gallery Section | View pictures of the social volleyball sessions and local league teams | Works as expected |
+
+
+<details><summary>Screenshot</summary>
+<img src="docs/user-story-testing/user-story-4-6.JPG">
+</details>
+
+5. As a first time user, I want to be able to contact the club with a specific question
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact Form | Navigate to the Contact Section, fill out and submit contact form | Data submited via contact form | Works as expected |
+
+<details><summary>Screenshot</summary>
+<img src="docs/user-story-testing/user-story-5.JPG">
+</details>
+
+6. As a returning user, I want to see pictures from the recent club tournaments
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Gallery Section | Navigate to the Gallery Section | View pictures of the social volleyball sessions and local league teams | Works as expected |
+
+<details><summary>Screenshot</summary>
+<img src="docs/user-story-testing/user-story-4-6.JPG">
+</details>
+
+7. As a returning user, I want to know who joins the social sessions
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| About Section | Navigate to the About Section | See description of Social Volleyball | Works as expected |
+| Gallery Section | Navigate to the Gallery Section | View pictures from the social volleyball trainings and tournaments | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-7a.JPG">
+<img src="docs/user-story-testing/user-story-7b.JPG">
+</details>
+
+
+
+
+
 
 ## Bugs
 
