@@ -3,10 +3,9 @@
 
 Developer: Aleksandra Haniok
 
-![Responsible mockup of the website]()
+![Mockup image](docs/ami-responsivedesign-msvc.JPG)
 
-Live webpage
-<https://aleksandracodes.github.io/CI_PP1_MSVC/>
+[Live webpage](https://aleksandracodes.github.io/CI_PP1_MSVC/)
 
 ## Table of Content
 
