@@ -106,10 +106,10 @@ A separate 404 error page was created.
 <img src="docs/wireframes/wireframes-contact-laptop.JPG">
 </details>
 <details><summary>Medium screens - tablets</summary>
-<img src="docs/wireframes/wireframes-tablet.jpg">
+<img src="docs/wireframes/wireframes-tablet.JPG">
 </details>
 <details><summary>Small screens - mobile</summary>
-<img src="docs/wireframes/wireframes-mobile.jpg">
+<img src="docs/wireframes/wireframes-mobile.JPG">
 </details>
 
 ## Technologies Used
@@ -134,7 +134,7 @@ A separate 404 error page was created.
 
 ## Features
 
-The website consists of four sections and nine features.
+The website consists of four sections and ten features.
 
 ### Logo and Navigation Bar
 - Featured on the main website and the 404 error page
@@ -152,7 +152,7 @@ The website consists of four sections and nine features.
 - The headings over the pictures are to make the user welcomed on the website and encourage them to join the club
 - The pictures slide automatically but user has the option to change the pictures via back and forward arrows or indicators at the bottom
 
-![Carousel](docs/features/feature-carousel.jpg)
+![Carousel](docs/features/feature-carousel.JPG)
 
 ### About Section
 - Provides a general description of the club
@@ -192,7 +192,7 @@ The website consists of four sections and nine features.
 
 ### Info
 - Provides user with sports venues addresses and contact email
-- User stories covered: 5, 10
+- User stories covered: 5, 10, 12
   
 ![Info](docs/features/feature-info.JPG)
 
@@ -204,17 +204,24 @@ The website consists of four sections and nine features.
 
 ![Footer](docs/features/feature-footer.JPG)
 
+### 404 error page
+- Displayed when a request triggers the HTTP 404 response code
+- User does not have to use browser back button to go to the main website
+- User stories covered: 15
+
+![404 page](docs/features/feature-404page.JPG)
+
 ## Validation
 
 ### HTML Validation
 
 The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors or no warnings to show.
 <details><summary>All site</summary>
-<img src="docs/validation/validation-html-site.jpg">
+<img src="docs/validation/validation-html-site.JPG">
 </details>
 
 <details><summary>404 error page</summary>
-<img src="docs/validation/validation-html-404page.jpg">
+<img src="docs/validation/validation-html-404page.JPG">
 </details>
 
 ### CSS Validation
@@ -224,11 +231,11 @@ When validating all website, it passes with no errors found. However, some warni
 When validating my own internal CSS, the validator shows no errors and one warning associated with vendor extension (-webkit-appearance).
 
 <details><summary>All site</summary>
-<img src="docs/validation/validation-css-all-site.jpg">
-<img src="docs/validation/validation-css-all-site-2.jpg">
+<img src="docs/validation/validation-css-all-site.JPG">
+<img src="docs/validation/validation-css-all-site-2.JPG">
 </details>
 <details><summary>Internal stylesheet</summary>
-<img src="docs/validation/validation-css-style.jpg">
+<img src="docs/validation/validation-css-style.JPG">
 </details>
 
 ## Testing
@@ -237,13 +244,13 @@ When validating my own internal CSS, the validator shows no errors and one warni
 
 The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All site pass with 0 errors.
 
-<details><summary>See evaluation summary</summary><img src="docs/validation/validation-accessibility-all-site.jpg">
+<details><summary>See evaluation summary</summary><img src="docs/validation/validation-accessibility-all-site.JPG">
 </details>
 
 ### Performance
 
 Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website.
-<details><summary>See evaluation summary</summary><img src="docs/validation/validation-lighthouse-performance.jpg">
+<details><summary>See evaluation summary</summary><img src="docs/validation/validation-lighthouse-performance.JPG">
 </details>
 
 ### Performing tests on various devices
@@ -269,9 +276,9 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| About Section | Navigate to the About section | Find description of the club. | Works as expected |
+| About section | Navigate to the About section | Find description of the club. | Works as expected |
 
-| About Section, Social Volleyball | Navigate to the About section | Description tells the user they can join with no previous experience | Works as expected |
+| About section, Social Volleyball | Navigate to the About section | Description tells the user they can join with no previous experience | Works as expected |
 
 | About Section, Local League | Navigate to the About section | User is provided with information about the MSVC League Teams, experience required and structure of trainings | Works as expected |
 
@@ -284,7 +291,7 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Gallery Section | Navigate to the Gallery Section | View pictures of the social volleyball sessions and local league teams | Works as expected |
+| Gallery section | Navigate to the Gallery section | View pictures of the social volleyball sessions and local league teams | Works as expected |
 
 
 <details><summary>Screenshot</summary>
@@ -295,7 +302,7 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Contact Form | Navigate to the Contact Section, fill out and submit contact form | Data submited via contact form | Works as expected |
+| Contact Form | Navigate to the Contact section, fill out and submit contact form | Data submited via contact form | Works as expected |
 
 <details><summary>Screenshot</summary>
 <img src="docs/user-story-testing/user-story-5.JPG">
@@ -305,7 +312,7 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Gallery Section | Navigate to the Gallery Section | View pictures of the social volleyball sessions and local league teams | Works as expected |
+| Gallery section | Navigate to the Gallery section | View pictures of the social volleyball sessions and local league teams | Works as expected |
 
 <details><summary>Screenshot</summary>
 <img src="docs/user-story-testing/user-story-4-6.JPG">
@@ -315,8 +322,8 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| About Section | Navigate to the About Section | See description of Social Volleyball | Works as expected |
-| Gallery Section | Navigate to the Gallery Section | View pictures from the social volleyball trainings and tournaments | Works as expected |
+| About section | Navigate to the About section | See description of Social Volleyball | Works as expected |
+| Gallery section | Navigate to the Gallery section | View pictures from the social volleyball trainings and tournaments | Works as expected |
 
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-7a.JPG">
@@ -330,25 +337,25 @@ The website was tested on the following browsers:
 | Footer with social media icons | Scroll to the bottom of the page | Click on social media links | Works as expected |
 
 <details><summary>Screenshot</summary>
-<img src="docs/user-story-testing/user-story-8.jpg">
+<img src="docs/user-story-testing/user-story-8.JPG">
 </details>
 
 9. As a returning user, I want to know the training sessions times
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| About | Navigate to the Acbout Section | Find social volleyball & local league trianing times | Works as expected |
+| About section | Navigate to the About section | Find social volleyball & local league training times | Works as expected |
 
 <details><summary>Screenshot</summary>
-<img src="docs/user-story-testing/user-story-9.jpg">
+<img src="docs/user-story-testing/user-story-9.JPG">
 </details>
 
 10. As a returning user, I want to get direction to the sports venues
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Maps | Navigate to the Contact Section, locate maps and click on directions link | See directions to the sports venues Goole Maps | Works as expected |
-| Info | Navigate to the Contact Section, locate info box | See adresses with post codes to two sports venues  | Works as expected |
+| Maps | Navigate to the Contact section, locate maps and click on directions link | See directions to the sports venues Goole Maps | Works as expected |
+| Info | Navigate to the Contact section, locate info box | See adresses with post codes to two sports venues  | Works as expected |
 
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-10a.JPG">
@@ -360,13 +367,57 @@ The website was tested on the following browsers:
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 
-| About Section | Navigate to the About section | Find description of the club. | Works as expected |
-| Gallery Section | Navigate to the Gallery Section | Users can view pictures of the social volleyball sessions and local league teams | Works as expected |
+| About section | Navigate to the About section | Find description of the club. | Works as expected |
+| Gallery section | Navigate to the Gallery section | Users can view pictures of the social volleyball sessions and local league teams | Works as expected |
 
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-1-2-3.JPG">
 <img src="docs/user-story-testing/user-story-4-6.JPG">
 </details>
+
+12. As the site owner, I want user to be able to contact us.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact Form | Navigate to the Contact section and locate the contact form, fill out and submit contact form | Data submited via contact form | Works as expectd |
+| Info | Navigate to Contact section and locate the How to find us box | Find the contact email | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-5.JPG">
+<img src="docs/user-story-testing/user-story-10b.JPG">
+</details>
+
+13. As the site owner, I want users to join the training sessions
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| About section | Navigate to the About section | Find social volleyball & local league training times | Works as expected |
+
+<details><summary>Screenshot</summary>
+<img src="docs/user-story-testing/user-story-9.JPG">
+</details>
+
+14. As the site owner, I want my site to be responsive
+
+Each section of the website was tested using Google Chrome Developer Tools Toggle Device Toolbar to simulate viewports of different devices. I can confirm the website is fully responsive.
+
+<details><summary>Example screenshots</summary>
+<img src="docs/user-story-testing/user-story-14a.JPG">
+<img src="docs/user-story-testing/user-story-14b.JPG">
+<img src="docs/user-story-testing/user-story-14c.JPG">
+<img src="docs/user-story-testing/user-story-14d.JPG">
+</details>
+
+15. As the site owner, I don’t want users to use browser back button if they’re searching for a page which does not exist.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| 404 error page | Displays automatically when request triggers the HTTP 404 response code | Click on the Try again button | Works as expected |
+
+<details><summary>Screenshot</summary>
+<img src="docs/user-story-testing/user-story-15.JPG">
+</details>
+
 
 
 ## Bugs
