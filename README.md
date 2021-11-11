@@ -1,13 +1,14 @@
 # Moss Side Volleyball Club <img src="assets\images\msvc-logo.png" style="width: 40px;height:40px;">
 
 
-Developer: Aleksandra Haniok
+**Developer: Aleksandra Haniok**
 
 ![Mockup image](docs/ami-responsivedesign-msvc.JPG)
 
-[Live webpage](https://aleksandracodes.github.io/CI_PP1_MSVC/)
+[Live website](https://aleksandracodes.github.io/CI_PP1_MSVC/)
 
 ## Table of Content
+
   - [Project Goals](#project-goals)
     - [User Goals](#user-goals)
     - [Site Owner Goals](#site-owner-goals)
@@ -15,9 +16,6 @@ Developer: Aleksandra Haniok
     - [Target Audience](#target-audience)
     - [User Requirements and Expectations](#user-requirements-and-expectations)
     - [User Stories](#user-stories)
-      - [First-time users](#first-time-users)
-      - [Returning visitor](#returning-visitor)
-      - [Site Owner](#site-owner)
   - [Design](#design)
     - [Colour](#colour)
     - [Fonts](#fonts)
@@ -27,16 +25,6 @@ Developer: Aleksandra Haniok
     - [Languages](#languages)
     - [Frameworks, Libraries & Tools](#frameworks-libraries--tools)
   - [Features](#features)
-    - [Logo and Navigation Bar](#logo-and-navigation-bar)
-    - [Carousel](#carousel)
-    - [About Section](#about-section)
-    - [Gallery Section](#gallery-section)
-    - [Quote](#quote)
-    - [Contact Form](#contact-form)
-    - [Maps](#maps)
-    - [Info](#info)
-    - [Footer](#footer)
-    - [404 error page](#404-error-page)
   - [Validation](#validation)
     - [HTML Validation](#html-validation)
     - [CSS Validation](#css-validation)
@@ -48,12 +36,7 @@ Developer: Aleksandra Haniok
     - [Testing user stories](#testing-user-stories)
   - [Bugs](#bugs)
   - [Deployment](#deployment)
-    - [GitHub Pages](#github-pages)
-    - [Forking the GitHub Repository](#forking-the-github-repository)
-    - [Making a Local Clone](#making-a-local-clone)
   - [Credits](#credits)
-    - [Images](#images)
-    - [Code](#code)
   - [Acknowledgements](#acknowledgements)
 
 ## Project Goals
