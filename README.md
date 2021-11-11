@@ -447,8 +447,27 @@ You can clone the repository by following these steps:
 4. Open Git Bash
 5. Change the current working directory to the one where you want the cloned directory
 6. Type git clone and paste the URL from the clipboard ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
-7.Press Enter to create your local clone.
+7. Press Enter to create your local clone.
 
 ## Credits
 
-## Acknowledgements
+### Images
+[Nav Logo](assets/images/msvc-logo.png): Icon by juicy_fish on [Flaticon](https://www.flaticon.com/premium-icon/volleyball-ball_5140669)
+
+[Social Volleyball Logo](assets/images/socialvolleyball-logo.png) & [Jaguars Logo](assets/images/jaguars-logo.png) provided by Stefano Scrocco (MSVC Head Coach).
+
+[Quote](assets/images/quote-picture.jpg): Photo by [Pexels](https://pixabay.com/users/pexels-2286921/) on [Pixabay](https://pixabay.com/photos/beach-daylight-landscape-light-net-1868379/)
+
+Social Media Icons taken from [Fontawesome](https://fontawesome.com/)
+
+404 error page created in Paint by developer using graphics from [Creative Fabrica](https://www.creativefabrica.com/product/volleyball-ball-cracked-wall/)
+
+The rest of images on the website are owned by the developer.
+
+## Code
+
+- [Navbar with toggler](https://getbootstrap.com/docs/5.1/components/navbar/#toggler) was built using the Bootstrap v5.1.3 documentation
+- [Carousel](https://getbootstrap.com/docs/5.1/components/carousel/#with-captions) with captions was built based on the Bootrap v5.1.3 documentation code snippet
+- Quote section was inspired by the [Steven Pressfield codepen](https://codepen.io/jupago/pen/dwZKbM)
+- Google Maps were embedded using the code on [Google Maps Platform](https://developers.google.com/maps/documentation/embed/get-started)
+- 404 page was created based on description on [GitHub Docs](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)
