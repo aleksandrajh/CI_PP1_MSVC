@@ -418,8 +418,6 @@ Each section of the website was tested using Google Chrome Developer Tools Toggl
 <img src="docs/user-story-testing/user-story-15.JPG">
 </details>
 
-
-
 ## Bugs
 
 | Bug | Fix |
@@ -430,6 +428,26 @@ Each section of the website was tested using Google Chrome Developer Tools Toggl
 | Yet another bug | How I fixed them  |
 
 ## Deployment
+
+The website was deployed using GitHub Pages by following these steps:
+1. In the GitHub repository navigate to the Settings tab
+2. On the left hand menu select Pages
+3. For the source select Branch: main
+4. Once saved, GitHub will refresh and your website will be publishd from GitHub repository.
+5. The link to your published website will appear: "Your site is published at https://aleksandracodes.github.io/CI_PP1_MSVC/"
+
+You can for fork the repository by following these steps:
+1. Go to the GitHub repository
+2. Click on Fork button in top right corner
+
+You can clone the repository by following these steps:
+1. Go to the GitHub repository 
+2. Locate the Code button above the list of files and click it
+3. Select if you prefere to clone using HTTPS, SSH, or Github CLI and click the copy button to copy the URL to your clipboard
+4. Open Git Bash
+5. Change the current working directory to the one where you want the cloned directory
+6. Type git clone and paste the URL from the clipboard ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
+7.Press Enter to create your local clone.
 
 ## Credits
 
