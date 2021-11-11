@@ -118,7 +118,7 @@ A separate 404 error page was created.
 - HTML
 - CSS
 
-### Frameworks & Tools
+### Frameworks, Libraries & Tools
 
 - Balsamiq
 - Bootstrap v5.1.3
@@ -130,7 +130,7 @@ A separate 404 error page was created.
 - Pixabay.com
 - Remove.bg
 - Visual Studio Code
-
+  
 ## Features
 
 The website consists of four sections and ten features.
@@ -421,32 +421,37 @@ Each section of the website was tested using Google Chrome Developer Tools Toggl
 
 | Bug | Fix |
 | ----------- | ----------- |
-| Some bug | The fix for it |
-| Paragraph   | Text        |
-| Another bug   | How I fixed it |
-| Yet another bug | How I fixed them  |
+| Bootstrap framework was overriding my internal CSS rules | Integrated my CSS stylesheet beneath the external stylesheet links to have higher priority |
+| On smaller screen sizes, the carousel caption was covering the whole image making it almost unvisible to the user   | I removed the h2 from the second and third slide and set h3 size accordingly to the screen size to stay only at the bottom of the picture|
+| The radio buttons were left out on the previous row with the label beneath as screen size got smaller | Groupped the radio button with label by creating a class with 'white-space: no wrap' property |
+| The email address in the info box was overflowing on medium size screens | Changed the grid bootstrap system for email to take up space of 12 rows |
+| The footer had a small white gap to the bottom | Set bottom margin to 0 |
+| Links to the main website on the 404 page did not work | Fixed with the correct filepath|
+| Wave Validator identified skipped header level in carousel caption | Changed h3 & h4 to h2 & h3 |
+| Warning for Quote Section lacking heading (The W3C Markup Validation) | Removed section and replaced with div |
 
 ## Deployment
 
+### GitHub Pages
 The website was deployed using GitHub Pages by following these steps:
 1. In the GitHub repository navigate to the Settings tab
 2. On the left hand menu select Pages
 3. For the source select Branch: main
-4. Once saved, GitHub will refresh and your website will be publishd from GitHub repository.
+4. Once saved, GitHub will refresh and your website will be publishd from GitHub repository
 5. The link to your published website will appear: "Your site is published at https://aleksandracodes.github.io/CI_PP1_MSVC/"
 
-You can for fork the repository by following these steps:
+### Forking the GitHub Repository
 1. Go to the GitHub repository
 2. Click on Fork button in top right corner
 
-You can clone the repository by following these steps:
+### Making a Local Clone
 1. Go to the GitHub repository 
 2. Locate the Code button above the list of files and click it
-3. Select if you prefere to clone using HTTPS, SSH, or Github CLI and click the copy button to copy the URL to your clipboard
+3. Highlight the "HTTPS" button to clone with HTTPS and copy the link
 4. Open Git Bash
 5. Change the current working directory to the one where you want the cloned directory
 6. Type git clone and paste the URL from the clipboard ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
-7. Press Enter to create your local clone.
+7. Press Enter to create your local clone
 
 ## Credits
 
@@ -463,15 +468,16 @@ Social Media Icons taken from [Fontawesome](https://fontawesome.com/)
 
 The rest of images on the website are owned by the developer.
 
-## Code
+### Code
 
 - [Navbar with toggler](https://getbootstrap.com/docs/5.1/components/navbar/#toggler) was built using the Bootstrap v5.1.3 documentation
 - [Carousel](https://getbootstrap.com/docs/5.1/components/carousel/#with-captions) with captions was built based on the Bootrap v5.1.3 documentation code snippet
 - Quote section was inspired by the [Steven Pressfield codepen](https://codepen.io/jupago/pen/dwZKbM)
 - Google Maps were embedded using the code on [Google Maps Platform](https://developers.google.com/maps/documentation/embed/get-started)
 - 404 page was created based on description on [GitHub Docs](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)
+- Credit to Code Institute for the formdump used in my Contact Form.
 
-## Acknowledgements
+### Acknowledgements
 I would like to thank everyone who supported me in the development of the website:
 - My mentor Mo Shami for professional guidance and feedback
 - Stefano Scrocco, MSVC Head Coach, who provided club's logos, information used in About Section and shared ideas to improve user experience
