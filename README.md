@@ -8,6 +8,53 @@ Developer: Aleksandra Haniok
 [Live webpage](https://aleksandracodes.github.io/CI_PP1_MSVC/)
 
 ## Table of Content
+  - [Project Goals](#project-goals)
+    - [User Goals](#user-goals)
+    - [Site Owner Goals](#site-owner-goals)
+  - [User Experience](#user-experience)
+    - [Target Audience](#target-audience)
+    - [User Requirements and Expectations](#user-requirements-and-expectations)
+    - [User Stories](#user-stories)
+      - [First-time users](#first-time-users)
+      - [Returning visitor](#returning-visitor)
+      - [Site Owner](#site-owner)
+  - [Design](#design)
+    - [Colour](#colour)
+    - [Fonts](#fonts)
+    - [Structure](#structure)
+    - [Wireframes](#wireframes)
+  - [Technologies Used](#technologies-used)
+    - [Languages](#languages)
+    - [Frameworks, Libraries & Tools](#frameworks-libraries--tools)
+  - [Features](#features)
+    - [Logo and Navigation Bar](#logo-and-navigation-bar)
+    - [Carousel](#carousel)
+    - [About Section](#about-section)
+    - [Gallery Section](#gallery-section)
+    - [Quote](#quote)
+    - [Contact Form](#contact-form)
+    - [Maps](#maps)
+    - [Info](#info)
+    - [Footer](#footer)
+    - [404 error page](#404-error-page)
+  - [Validation](#validation)
+    - [HTML Validation](#html-validation)
+    - [CSS Validation](#css-validation)
+  - [Testing](#testing)
+    - [Accessibility](#accessibility)
+    - [Performance](#performance)
+    - [Performing tests on various devices](#performing-tests-on-various-devices)
+    - [Browser compatability](#browser-compatability)
+    - [Testing user stories](#testing-user-stories)
+  - [Bugs](#bugs)
+  - [Deployment](#deployment)
+    - [GitHub Pages](#github-pages)
+    - [Forking the GitHub Repository](#forking-the-github-repository)
+    - [Making a Local Clone](#making-a-local-clone)
+  - [Credits](#credits)
+    - [Images](#images)
+    - [Code](#code)
+  - [Acknowledgements](#acknowledgements)
 
 ## Project Goals
 
@@ -120,16 +167,18 @@ A separate 404 error page was created.
 
 ### Frameworks, Libraries & Tools
 
-- Balsamiq
-- Bootstrap v5.1.3
-- Favicon.io
-- Font Awesome
-- Git
-- GitHub
-- Google Fonts
-- Pixabay.com
-- Remove.bg
-- Visual Studio Code
+- [Am I Responsive](http://ami.responsivedesign.is/) was used to create the multi-device mock-up you can see at the start of this README.md file.
+- [Balsamiq](https://balsamiq.com/) to create the projects wireframes
+- [Bootstrap v5.1.3](https://getbootstrap.com/)
+- [Favicon.io](https://favicon.io) for making the site favicon
+- [Font Awesome](https://fontawesome.com/) - Icons from Font Awesome were used throughout the site.
+- [Git](https://git-scm.com/) was used for version control within VSCode to push the code to GitHub.
+- [GitHub](https://github.com/) was used as a remote repository to store project code.
+- [Google Fonts](https://fonts.google.com/)
+- [Google Maps](https://www.google.com/maps) were used to create the embedded map with location pins
+- [Pixabay.com](Pixabay.com) was used for pictures
+- [Remove.bg](https://www.remove.bg/) was used to remove background on logos
+- [WC3 Validator](https://validator.w3.org/), [Jigsaw W3 Validator](https://jigsaw.w3.org/css-validator/), [Wave Validator](https://wave.webaim.org/), [Lighthouse](https://developers.google.com/web/tools/lighthouse/) and [Am I Responsive](http://ami.responsivedesign.is/) were all used to test the website
   
 ## Features
 
@@ -477,7 +526,7 @@ The rest of images on the website are owned by the developer.
 - 404 page was created based on description on [GitHub Docs](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)
 - Credit to Code Institute for the formdump used in my Contact Form.
 
-### Acknowledgements
+## Acknowledgements
 I would like to thank everyone who supported me in the development of the website:
 - My mentor Mo Shami for professional guidance and feedback
 - Stefano Scrocco, MSVC Head Coach, who provided club's logos, information used in About Section and shared ideas to improve user experience
