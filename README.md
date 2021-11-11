@@ -471,3 +471,10 @@ The rest of images on the website are owned by the developer.
 - Quote section was inspired by the [Steven Pressfield codepen](https://codepen.io/jupago/pen/dwZKbM)
 - Google Maps were embedded using the code on [Google Maps Platform](https://developers.google.com/maps/documentation/embed/get-started)
 - 404 page was created based on description on [GitHub Docs](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)
+
+## Acknowledgements
+I would like to thank everyone who supported me in the development of the website:
+- My mentor Mo Shami for professional guidance and feedback
+- Stefano Scrocco, MSVC Head Coach, who provided club's logos, information used in About Section and shared ideas to improve user experience
+- My partner for patience with me when code did not work the way I expected
+- My friends who tested the website on different devices for responsiveness
