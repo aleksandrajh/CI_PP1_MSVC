@@ -87,11 +87,11 @@
    
 #### Returning visitor
 
-6. As a returning user, I want to see pictures from the recent club tournaments
-7. As a returning user, I want to know who joins the social sessions
-8. As a returning user, I want to find the club on social media
-9. As a returning user, I want to know the training sessions times
-10. As a returning user, I want to get direction to the sports venues
+1. As a returning user, I want to see pictures from the club tournaments
+2. As a returning user, I want to know who joins the social sessions
+3. As a returning user, I want to find the club on social media
+4. As a returning user, I want to know the training sessions times
+5.  As a returning user, I want to get direction to the sports venues
 
 #### Site Owner
 
@@ -135,10 +135,10 @@ A separate 404 error page was created.
 <img src="docs/wireframes/wireframes-contact-laptop.JPG">
 </details>
 <details><summary>Medium screens - tablets</summary>
-<img src="docs/wireframes/wireframes-tablet.JPG">
+<img src="docs/wireframes/wireframes-tablet.jpg">
 </details>
 <details><summary>Small screens - mobile</summary>
-<img src="docs/wireframes/wireframes-mobile.JPG">
+<img src="docs/wireframes/wireframes-mobile.jpg">
 </details>
 
 ## Technologies Used
@@ -305,8 +305,8 @@ The website was tested on the following browsers:
 2. As a first time user, I want to find out if I can join the club if I have never played volleyball before.
 3. As a first time user, I want to know if the club takes part in the local competition
 
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
+| **Feature**   | **Action**                    | **Expected Result**           | **Actual Result** |
+| ------------- | ----------------------------- | ----------------------------- | ----------------- |
 | About section | Navigate to the About section | Find description of the club. | Works as expected |
 
 | About section, Social Volleyball | Navigate to the About section | Description tells the user they can join with no previous experience | Works as expected |
@@ -320,8 +320,8 @@ The website was tested on the following browsers:
 
 4. As a first time user, I want to get a feeling of the club
 
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
+| **Feature**     | **Action**                      | **Expected Result**                                                    | **Actual Result** |
+| --------------- | ------------------------------- | ---------------------------------------------------------------------- | ----------------- |
 | Gallery section | Navigate to the Gallery section | View pictures of the social volleyball sessions and local league teams | Works as expected |
 
 
@@ -331,18 +331,18 @@ The website was tested on the following browsers:
 
 5. As a first time user, I want to be able to contact the club with a specific question
 
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
+| **Feature**  | **Action**                                                        | **Expected Result**            | **Actual Result** |
+| ------------ | ----------------------------------------------------------------- | ------------------------------ | ----------------- |
 | Contact Form | Navigate to the Contact section, fill out and submit contact form | Data submited via contact form | Works as expected |
 
 <details><summary>Screenshot</summary>
 <img src="docs/user-story-testing/user-story-5.JPG">
 </details>
 
-6. As a returning user, I want to see pictures from the recent club tournaments
+6. As a returning user, I want to see pictures from the club tournaments
 
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
+| **Feature**     | **Action**                      | **Expected Result**                                                    | **Actual Result** |
+| --------------- | ------------------------------- | ---------------------------------------------------------------------- | ----------------- |
 | Gallery section | Navigate to the Gallery section | View pictures of the social volleyball sessions and local league teams | Works as expected |
 
 <details><summary>Screenshot</summary>
@@ -351,9 +351,9 @@ The website was tested on the following browsers:
 
 7. As a returning user, I want to know who joins the social sessions
 
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-| About section | Navigate to the About section | See description of Social Volleyball | Works as expected |
+| **Feature**     | **Action**                      | **Expected Result**                                                | **Actual Result** |
+| --------------- | ------------------------------- | ------------------------------------------------------------------ | ----------------- |
+| About section   | Navigate to the About section   | See description of Social Volleyball                               | Works as expected |
 | Gallery section | Navigate to the Gallery section | View pictures from the social volleyball trainings and tournaments | Works as expected |
 
 <details><summary>Screenshots</summary>
@@ -363,8 +363,8 @@ The website was tested on the following browsers:
 
 8. As a returning user, I want to find the club on social media
 
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
+| **Feature**                    | **Action**                       | **Expected Result**         | **Actual Result** |
+| ------------------------------ | -------------------------------- | --------------------------- | ----------------- |
 | Footer with social media icons | Scroll to the bottom of the page | Click on social media links | Works as expected |
 
 <details><summary>Screenshot</summary>
@@ -373,8 +373,8 @@ The website was tested on the following browsers:
 
 9. As a returning user, I want to know the training sessions times
 
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
+| **Feature**   | **Action**                    | **Expected Result**                                  | **Actual Result** |
+| ------------- | ----------------------------- | ---------------------------------------------------- | ----------------- |
 | About section | Navigate to the About section | Find social volleyball & local league training times | Works as expected |
 
 <details><summary>Screenshot</summary>
@@ -383,10 +383,10 @@ The website was tested on the following browsers:
 
 10. As a returning user, I want to get direction to the sports venues
 
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-| Maps | Navigate to the Contact section, locate maps and click on directions link | See directions to the sports venues Goole Maps | Works as expected |
-| Info | Navigate to the Contact section, locate info box | See adresses with post codes to two sports venues  | Works as expected |
+| **Feature** | **Action**                                                                | **Expected Result**                               | **Actual Result** |
+| ----------- | ------------------------------------------------------------------------- | ------------------------------------------------- | ----------------- |
+| Maps        | Navigate to the Contact section, locate maps and click on directions link | See directions to the sports venues Goole Maps    | Works as expected |
+| Info        | Navigate to the Contact section, locate info box                          | See adresses with post codes to two sports venues | Works as expected |
 
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-10a.JPG">
@@ -396,7 +396,7 @@ The website was tested on the following browsers:
 11. As the site owner, I want user to get to know the club
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
+| ----------- | ---------- | ------------------- | ----------------- |
 
 | About section | Navigate to the About section | Find description of the club. | Works as expected |
 | Gallery section | Navigate to the Gallery section | Users can view pictures of the social volleyball sessions and local league teams | Works as expected |
@@ -408,10 +408,10 @@ The website was tested on the following browsers:
 
 12. As the site owner, I want user to be able to contact us.
 
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
-| Contact Form | Navigate to the Contact section and locate the contact form, fill out and submit contact form | Data submited via contact form | Works as expectd |
-| Info | Navigate to Contact section and locate the How to find us box | Find the contact email | Works as expected |
+| **Feature**  | **Action**                                                                                    | **Expected Result**            | **Actual Result** |
+| ------------ | --------------------------------------------------------------------------------------------- | ------------------------------ | ----------------- |
+| Contact Form | Navigate to the Contact section and locate the contact form, fill out and submit contact form | Data submited via contact form | Works as expectd  |
+| Info         | Navigate to Contact section and locate the How to find us box                                 | Find the contact email         | Works as expected |
 
 <details><summary>Screenshots</summary>
 <img src="docs/user-story-testing/user-story-5.JPG">
@@ -420,8 +420,8 @@ The website was tested on the following browsers:
 
 13. As the site owner, I want users to join the training sessions
 
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
+| **Feature**   | **Action**                    | **Expected Result**                                  | **Actual Result** |
+| ------------- | ----------------------------- | ---------------------------------------------------- | ----------------- |
 | About section | Navigate to the About section | Find social volleyball & local league training times | Works as expected |
 
 <details><summary>Screenshot</summary>
@@ -441,8 +441,8 @@ Each section of the website was tested using Google Chrome Developer Tools Toggl
 
 15. As the site owner, I don’t want users to use browser back button if they’re searching for a page which does not exist.
 
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-|-------------|------------|---------------------|-------------------|
+| **Feature**    | **Action**                                                              | **Expected Result**           | **Actual Result** |
+| -------------- | ----------------------------------------------------------------------- | ----------------------------- | ----------------- |
 | 404 error page | Displays automatically when request triggers the HTTP 404 response code | Click on the Try again button | Works as expected |
 
 <details><summary>Screenshot</summary>
@@ -451,16 +451,16 @@ Each section of the website was tested using Google Chrome Developer Tools Toggl
 
 ## Bugs
 
-| Bug | Fix |
-| ----------- | ----------- |
-| Bootstrap framework was overriding my internal CSS rules | Integrated my CSS stylesheet beneath the external stylesheet links to have higher priority |
-| On smaller screen sizes, the carousel caption was covering the whole image making it almost unvisible to the user   | I removed the h2 from the second and third slide and set h3 size accordingly to the screen size to stay only at the bottom of the picture|
-| The radio buttons were left out on the previous row with the label beneath as screen size got smaller | Groupped the radio button with label by creating a class with 'white-space: no wrap' property |
-| The email address in the info box was overflowing on medium size screens | Changed the grid bootstrap system for email to take up space of 12 rows |
-| The footer had a small white gap to the bottom | Set bottom margin to 0 |
-| Links to the main website on the 404 page did not work | Fixed with the correct filepath|
-| Wave Validator identified skipped header level in carousel caption | Changed h3 & h4 to h2 & h3 |
-| Warning for Quote Section lacking heading (The W3C Markup Validation) | Removed section and replaced with div |
+| Bug                                                                                                               | Fix                                                                                                                                       |
+| ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Bootstrap framework was overriding my internal CSS rules                                                          | Integrated my CSS stylesheet beneath the external stylesheet links to have higher priority                                                |
+| On smaller screen sizes, the carousel caption was covering the whole image making it almost unvisible to the user | I removed the h2 from the second and third slide and set h3 size accordingly to the screen size to stay only at the bottom of the picture |
+| The radio buttons were left out on the previous row with the label beneath as screen size got smaller             | Groupped the radio button with label by creating a class with 'white-space: no wrap' property                                             |
+| The email address in the info box was overflowing on medium size screens                                          | Changed the grid bootstrap system for email to take up space of 12 rows                                                                   |
+| The footer had a small white gap to the bottom                                                                    | Set bottom margin to 0                                                                                                                    |
+| Links to the main website on the 404 page did not work                                                            | Fixed with the correct filepath                                                                                                           |
+| Wave Validator identified skipped header level in carousel caption                                                | Changed h3 & h4 to h2 & h3                                                                                                                |
+| Warning for Quote Section lacking heading (The W3C Markup Validation)                                             | Removed section and replaced with div                                                                                                     |
 
 ## Deployment
 
