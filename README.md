@@ -275,7 +275,7 @@ When validating my own internal CSS, the validator shows no errors and one warni
 
 The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards. All site pass with 0 errors.
 
-<details><summary>See evaluation summary</summary><img src="docs/validation/validation-accessibility-all-site.JPG">
+<details><summary>See evaluation summary</summary><img src="docs/validation/validation-accessibility-all-site.jpg">
 </details>
 
 ### Performance
