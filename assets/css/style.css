@@ -17,22 +17,18 @@ body {
   background-color: #fcf7f7;
 }
 
-h1,
-h2,
-h3,
-h4 {
+h1, h2, h3, h4 {
   font-family: "Architects Daughter", cursive;
   font-weight: bold;
 }
 
-h1,
-h2 {
+h1, h2 {
   color: #000;
   text-transform: uppercase;
   letter-spacing: 2px;
 }
 
-/* Header */
+/* Navigation bar */
 
 #nav-text {
   font-size: 180%;
@@ -48,8 +44,7 @@ h2 {
   font-weight: bold;
 }
 
-.nav-link:hover,
-.social-icons i:hover {
+.nav-link:hover, .social-icons i:hover {
   position: relative;
   bottom: 5px;
   box-shadow: 0 5px 5px -2px #ad0000;
@@ -69,7 +64,7 @@ h2 {
   text-align: right;
 }
 
-/* Hero section with carousel */
+/* Hero section with bootstrap carousel */
 
 .carousel-item {
   max-height: 90vh;
@@ -78,11 +73,7 @@ h2 {
 
 #carouselHero .carousel-item:before {
   content: "";
-  background-image: linear-gradient(
-    to bottom,
-    rgba(173, 0, 0, 0.1),
-    rgba(0, 0, 0, 0.9)
-  );
+  background-image: linear-gradient(to bottom,rgba(173, 0, 0, 0.1),rgba(0, 0, 0, 0.9));
   display: block;
   position: absolute;
   top: 0;
