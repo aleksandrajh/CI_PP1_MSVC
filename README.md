@@ -248,7 +248,7 @@ The website consists of four sections and ten features.
 
 The W3C Markup Validation Service was used to validate the HTML of the website. All pages pass with no errors or no warnings to show.
 <details><summary>All site</summary>
-<img src="docs/validation/validation-html-site.JPG">
+<img src="docs/validation/validation-html-site.jpg">
 </details>
 
 <details><summary>404 error page</summary>
@@ -265,8 +265,8 @@ When validating my own internal CSS, the validator shows no errors and one warni
 <img src="docs/validation/validation-css-all-site.JPG">
 <img src="docs/validation/validation-css-all-site-2.JPG">
 </details>
-<details><summary>Internal stylesheet</summary>
-<img src="docs/validation/validation-css-style.JPG">
+<details><summary>Style.css</summary>
+<img src="docs/validation/validation-css-style.jpg">
 </details>
 
 ## Testing
