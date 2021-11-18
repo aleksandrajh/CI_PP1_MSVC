@@ -411,7 +411,7 @@ The website was tested on the following browsers:
 
 | **Feature**     | **Action**                      | **Expected Result**                                                              | **Actual Result** |
 | --------------- | ------------------------------- | -------------------------------------------------------------------------------- | ----------------- |
-| About section   | Navigate to the About section   | Find description of the club.                                                    | Works as expected |
+| About section   | Navigate to the About section   | Find description of the club                                                     | Works as expected |
 | Gallery section | Navigate to the Gallery section | Users can view pictures of the social volleyball sessions and local league teams | Works as expected |
 
 <details><summary>Screenshots</summary>
@@ -423,7 +423,7 @@ The website was tested on the following browsers:
 
 | **Feature**  | **Action**                                                                                    | **Expected Result**            | **Actual Result** |
 | ------------ | --------------------------------------------------------------------------------------------- | ------------------------------ | ----------------- |
-| Contact Form | Navigate to the Contact section and locate the contact form, fill out and submit contact form | Data submited via contact form | Works as expectd  |
+| Contact Form | Navigate to the Contact section and locate the contact form, fill out and submit contact form | Data submited via contact form | Works as expected |
 | Info         | Navigate to Contact section and locate the How to find us box                                 | Find the contact email         | Works as expected |
 
 <details><summary>Screenshots</summary>
@@ -474,6 +474,7 @@ Each section of the website was tested using Google Chrome Developer Tools Toggl
 | Links to the main website on the 404 page did not work                                                            | Fixed with the correct filepath                                                                                                           |
 | Wave Validator identified skipped header level in carousel caption                                                | Changed h3 & h4 to h2 & h3                                                                                                                |
 | Warning for Quote Section lacking heading (The W3C Markup Validation)                                             | Removed section and replaced with div                                                                                                     |
+| HTML and CSS had line broken and difficult to read code                                                           | Removed automatic line-wrapping in code editor and fixed the code                                                                         |
 
 ## Deployment
 
