@@ -183,7 +183,7 @@ The website consists of four sections and ten features.
 - The headings over the pictures are to make the user welcomed on the website and encourage them to join the club
 - The pictures slide automatically but user has the option to change the pictures via back and forward arrows or indicators at the bottom
 
-![Carousel](docs/features/feature-carousel.JPG)
+![Carousel](docs/features/feature-carousel.jpg)
 
 ### About Section
 - Provides a general description of the club
