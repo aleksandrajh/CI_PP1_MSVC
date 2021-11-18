@@ -336,6 +336,9 @@ footer {
     display: block;
     margin: 0 auto;
   }
+  .again-btn {
+    display: inline-block;
+  }
 }
 
 @media all and (max-width: 576px) {
