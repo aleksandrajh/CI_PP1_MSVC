@@ -303,9 +303,9 @@ The website was tested on the following browsers:
 
 1. As a first time user, I want to find out more about the club
 
-| **Feature**   | **Action**                    | **Expected Result**           | **Actual Result** |
-| ------------- | ----------------------------- | ----------------------------- | ----------------- |
-| About section | Navigate to the About section | Find description of the club. | Works as expected |
+| **Feature**   | **Action**                    | **Expected Result**          | **Actual Result** |
+| ------------- | ----------------------------- | ---------------------------- | ----------------- |
+| About section | Navigate to the About section | Find description of the club | Works as expected |
 
 <details><summary>Screenshot</summary>
 <img src="docs/user-story-testing/user-story-1.JPG">
@@ -314,9 +314,9 @@ The website was tested on the following browsers:
 2. As a first time user, I want to find out if I can join the club if I have never played volleyball before.
 
 
-| **Feature**                      | **Action**                    | **Expected Result**                                                   | **Actual Result** |
-| -------------------------------- | ----------------------------- | --------------------------------------------------------------------- | ----------------- |
-| About section, Social Volleyball | Navigate to the About section | Description tells the user they can join with no previous experience. | Works as expected |
+| **Feature**                      | **Action**                    | **Expected Result**                                                  | **Actual Result** |
+| -------------------------------- | ----------------------------- | -------------------------------------------------------------------- | ----------------- |
+| About section, Social Volleyball | Navigate to the About section | Description tells the user they can join with no previous experience | Works as expected |
 
 <details><summary>Screenshot</summary>
 <img src="docs/user-story-testing/user-story-2.JPG">
@@ -409,10 +409,9 @@ The website was tested on the following browsers:
 
 11. As the site owner, I want user to get to know the club
 
-| **Feature** | **Action** | **Expected Result** | **Actual Result** |
-| ----------- | ---------- | ------------------- | ----------------- |
-
-| About section | Navigate to the About section | Find description of the club. | Works as expected |
+| **Feature**     | **Action**                      | **Expected Result**                                                              | **Actual Result** |
+| --------------- | ------------------------------- | -------------------------------------------------------------------------------- | ----------------- |
+| About section   | Navigate to the About section   | Find description of the club.                                                    | Works as expected |
 | Gallery section | Navigate to the Gallery section | Users can view pictures of the social volleyball sessions and local league teams | Works as expected |
 
 <details><summary>Screenshots</summary>
