@@ -109,6 +109,7 @@ h1, h2 {
   margin: 45px auto;
 }
 
+/* center the text in about section */
 .center-text {
   text-align: center;
   font-size: 110%;
@@ -127,10 +128,12 @@ h1, h2 {
   box-shadow: 1px 1px 25px #ad0000;
 }
 
+/* remove the padding from the right column with local league info*/
 .no-padding {
   padding-right: 0;
 }
 
+/* style link to contact form in about section */
 #about a {
   color: #ad0000;
   text-decoration: none;
