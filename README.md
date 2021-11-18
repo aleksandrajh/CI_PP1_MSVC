@@ -302,20 +302,34 @@ The website was tested on the following browsers:
 ### Testing user stories
 
 1. As a first time user, I want to find out more about the club
-2. As a first time user, I want to find out if I can join the club if I have never played volleyball before.
-3. As a first time user, I want to know if the club takes part in the local competition
 
 | **Feature**   | **Action**                    | **Expected Result**           | **Actual Result** |
 | ------------- | ----------------------------- | ----------------------------- | ----------------- |
 | About section | Navigate to the About section | Find description of the club. | Works as expected |
 
-| About section, Social Volleyball | Navigate to the About section | Description tells the user they can join with no previous experience | Works as expected |
+<details><summary>Screenshot</summary>
+<img src="docs/user-story-testing/user-story-1.JPG">
+</details>
 
-| About Section, Local League | Navigate to the About section | User is provided with information about the MSVC League Teams, experience required and structure of trainings | Works as expected |
+2. As a first time user, I want to find out if I can join the club if I have never played volleyball before.
 
+
+| **Feature**                      | **Action**                    | **Expected Result**                                                   | **Actual Result** |
+| -------------------------------- | ----------------------------- | --------------------------------------------------------------------- | ----------------- |
+| About section, Social Volleyball | Navigate to the About section | Description tells the user they can join with no previous experience. | Works as expected |
 
 <details><summary>Screenshot</summary>
-<img src="docs/user-story-testing/user-story-1-2-3.JPG">
+<img src="docs/user-story-testing/user-story-2.JPG">
+</details>
+
+3. As a first time user, I want to know if the club takes part in the local competition
+
+| **Feature**                 | **Action**                    | **Expected Result**                                                                                           | **Actual Result** |
+| --------------------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------- | ----------------- |
+| About Section, Local League | Navigate to the About section | User is provided with information about the MSVC League Teams, experience required and structure of trainings | Works as expected |
+
+<details><summary>Screenshot</summary>
+<img src="docs/user-story-testing/user-story-3.JPG">
 </details>
 
 4. As a first time user, I want to get a feeling of the club
