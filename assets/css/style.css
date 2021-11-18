@@ -191,8 +191,7 @@ th {
   height: 250px;
   margin: 65px 0;
   background: #ad0000;
-  background: linear-gradient(rgba(173, 0, 0, 0.3), rgba(0, 0, 0, 0.7)),
-    url(../images/quote-picture.jpg);
+  background: linear-gradient(rgba(173, 0, 0, 0.3), rgba(0, 0, 0, 0.7)),url(../images/quote-picture.jpg);
   background-attachment: fixed;
   background-position: center;
 }
@@ -230,6 +229,7 @@ th {
   border: 1px solid #ad0000;
 }
 
+/* radio buttons in the contact form */
 input[type="radio"] {
   -webkit-appearance: none;
   width: 13px;
@@ -253,9 +253,6 @@ input[type="radio"]:checked:after {
 /* group the radio button & label to prevent singe radio button left out on a row when screen size gets smaller */
 .group-radio-label {
   white-space: nowrap;
-}
-
-.group-radio-label {
   padding-right: 20px;
 }
 
@@ -297,8 +294,7 @@ footer {
   margin: 0;
 }
 
-.social-icons i,
-.copyrights {
+.social-icons i, .copyrights {
   color: #fff;
 }
 
@@ -317,6 +313,7 @@ footer {
 /* Media querry adjustments for different screen sizes */
 
 @media all and (max-width: 992px) {
+  /* position 3 pictures in a row */
   .gallery div {
     flex: 33%;
   }
@@ -324,22 +321,29 @@ footer {
 
 @media all and (max-width: 768px) {
   .gallery div {
+    /* position 2 pictures in a row */
     flex: 50%;
   }
+
+  /* center contact button under the form */
   .contact-btn {
     display: block;
     margin: 0 auto;
   }
+
+  /* override display:block property for the button in the 404 page */
   .again-btn {
     display: inline-block;
   }
 }
 
 @media all and (max-width: 576px) {
+  /* position 1 picture in a row */
   .gallery div {
     flex: 100%;
   }
 
+  /* reduce the size of text on the carousel picture */
   .carousel-caption h2 {
     font-size: 130%;
     padding: 0 5px;
@@ -350,6 +354,7 @@ footer {
     margin-bottom: 0;
   }
 
+  /* reduce the size of the quote */
   .quote {
     width: 90%;
     padding: 10px 0;
@@ -369,10 +374,12 @@ footer {
 }
 
 @media all and (max-width: 390px) {
+  /* position info box text on separate lines occupying full row to prevent text overflowing the border */
   .col-9 {
-    flex: 0 0 auto;
     width: 100%;
   }
+  
+   /* reduce the size of text on the carousel picture */
   .carousel-caption h2 {
     font-size: 100%;
     padding: 0 5px;
