@@ -44,6 +44,7 @@ h1, h2 {
   font-weight: bold;
 }
 
+/* social media icons to have the same style when hovered as nav links */
 .nav-link:hover, .social-icons i:hover {
   position: relative;
   bottom: 5px;
@@ -151,6 +152,7 @@ h1, h2 {
   width: 35%;
 }
 
+/* increase the size of table header */
 th {
   font-size: 110%;
 }
@@ -305,7 +307,6 @@ footer {
 }
 
 /* 404 page image */
-
 .error-img {
   width: 35%;
 }
