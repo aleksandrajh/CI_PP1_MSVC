@@ -5,7 +5,7 @@
 
 ![Mockup image](docs/ami-responsivedesign-msvc.JPG)
 
-[Live website](https://aleksandracodes.github.io/CI_PP1_MSVC/)
+[Live website](https://aleksandrajh.github.io/CI_PP1_MSVC/)
 
 ## Table of Content
 
